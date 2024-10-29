@@ -11,3 +11,8 @@
 
 #!.yarn/cache
 .pnp.*
+
+node_modules
+
+packages/button/dist
+packages/text/dist

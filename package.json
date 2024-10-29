@@ -4,5 +4,10 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "glob": "^11.0.0",
+    "tsup": "^8.3.5"
+  }
 }
